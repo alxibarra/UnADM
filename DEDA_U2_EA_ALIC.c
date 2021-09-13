@@ -129,12 +129,7 @@ void identificar(int a[],int b[],int tam){
 
 int main(){	
 	
-	printf(" Universidad Abierta y a Distancia de México \n");
-	printf(" Estructura de datos \n");
-	printf(" Evidencia de aprendizaje: Metodos de ordenacion y busqueda de datos.\n");
-	printf(" Alumno Alejandro Ibarra Cruz \n");
-	printf(" Docente Alfredo Orozco Escobar\n");
-	printf(" \n");	
+
 	int el = 20;
 	int sueldoClaudia[el];
 	int sueldoJuan[el];
@@ -250,7 +245,7 @@ int main(){
 			    system("cls");
 				break;
 			
-			//Metodo de ordenamiento por inserción
+			//Metodo de ordenamiento por inserciÃ³n
 			case 3:
 				system("cls");
 			    printf("\nOrdenamiento por insercion\n");
@@ -308,7 +303,7 @@ int main(){
 			    system("cls");
 				break;
 				
-			//Metodo de ordenamiento por selección
+			//Metodo de ordenamiento por selecciÃ³n
 			case 4:
 				system("cls");
 			    printf("\nOrdenamiento por seleccion\n");
